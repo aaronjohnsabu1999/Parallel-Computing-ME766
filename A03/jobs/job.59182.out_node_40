@@ -1,0 +1,32 @@
+==========================================
+SLURM_CLUSTER_NAME = iitk-cluster
+SLURM_JOB_ACCOUNT = iitb-t
+SLURM_JOB_ID = 59182
+SLURM_JOB_NAME = 170070050A03
+SLURM_JOB_NODELIST = hm045
+SLURM_JOB_USER = 170070050
+SLURM_JOB_UID = 15276
+SLURM_JOB_PARTITION = standard
+SLURM_TASK_PID = 22875
+SLURM_SUBMIT_DIR = /home/170070050/ME766/Assignments/A03
+SLURM_CPUS_ON_NODE = 1
+SLURM_NTASKS = 
+SLURM_TASK_PID = 22875
+==========================================
+Q_Host.c:1:18: fatal error: stdio.h: No such file or directory
+ #include<stdio.h>
+                  ^
+compilation terminated.
+Time taken for HOST implementation with (N = 	120) = 0.017
+Time taken for HOST implementation with (N = 	240) = 0.088
+Time taken for HOST implementation with (N = 	480) = 0.461
+Time taken for HOST implementation with (N = 	720) = 1.455
+Time taken for HOST implementation with (N = 	960) = 3.781
+Time taken for HOST implementation with (N = 	1200) = 7.519
+Time taken for HOST implementation with (N = 	1500) = 19.782
+Time taken for HOST implementation with (N = 	1800) = 31.579
+Time taken for HOST implementation with (N = 	2100) = 52.287
+Time taken for HOST implementation with (N = 	2400) = 59.830
+Time taken for HOST implementation with (N = 	3600) = 223.666
+Time taken for HOST implementation with (N = 	4800) = 831.353
+slurmstepd: error: *** JOB 59182 ON hm045 CANCELLED AT 2021-05-02T23:23:49 ***

@@ -1,0 +1,17 @@
+==========================================
+SLURM_CLUSTER_NAME = iitk-cluster
+SLURM_JOB_ACCOUNT = iitb-t
+SLURM_JOB_ID = 53073
+SLURM_JOB_NAME = 170070050A02Q02
+SLURM_JOB_NODELIST = cn014
+SLURM_JOB_USER = 170070050
+SLURM_JOB_UID = 15276
+SLURM_JOB_PARTITION = standard
+SLURM_TASK_PID = 1060
+SLURM_SUBMIT_DIR = /home/170070050/ME766/Assignments/A02/Q2
+SLURM_CPUS_ON_NODE = 5
+SLURM_NTASKS = 5
+SLURM_TASK_PID = 1060
+==========================================
+Time taken for MPI implementation with (N = 9600)	 and (numProcs = 5) = 4393.968
+Time taken for MPI implementation with (N = 9600)	 and (numProcs = 4) = 5242.604

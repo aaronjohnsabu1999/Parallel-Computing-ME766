@@ -1,0 +1,147 @@
+==========================================
+SLURM_CLUSTER_NAME = iitk-cluster
+SLURM_JOB_ACCOUNT = iitb-t
+SLURM_JOB_ID = 52883
+SLURM_JOB_NAME = 170070050A02V01
+SLURM_JOB_NODELIST = cn184
+SLURM_JOB_USER = 170070050
+SLURM_JOB_UID = 15276
+SLURM_JOB_PARTITION = standard
+SLURM_TASK_PID = 1524
+SLURM_SUBMIT_DIR = /home/170070050/ME766/Assignments/A02
+SLURM_CPUS_ON_NODE = 16
+SLURM_NTASKS = 16
+SLURM_TASK_PID = 1524
+==========================================
+Time taken for OpenMP implementation with (N = 	120) and (numThreads = 1) = 0.000
+Time taken for OpenMP implementation with (N = 	120) and (numThreads = 2) = 0.000
+Time taken for OpenMP implementation with (N = 	120) and (numThreads = 3) = 0.250
+Time taken for OpenMP implementation with (N = 	120) and (numThreads = 4) = 0.000
+Time taken for OpenMP implementation with (N = 	120) and (numThreads = 5) = 0.000
+Time taken for OpenMP implementation with (N = 	120) and (numThreads = 6) = 0.250
+Time taken for OpenMP implementation with (N = 	120) and (numThreads = 8) = 0.250
+Time taken for OpenMP implementation with (N = 	120) and (numThreads = 10) = 0.250
+Time taken for OpenMP implementation with (N = 	120) and (numThreads = 12) = 0.500
+Time taken for OpenMP implementation with (N = 	120) and (numThreads = 15) = 0.000
+Time taken for OpenMP implementation with (N = 	120) and (numThreads = 16) = 0.000
+Time taken for OpenMP implementation with (N = 	240) and (numThreads = 1) = 0.000
+Time taken for OpenMP implementation with (N = 	240) and (numThreads = 2) = 0.250
+Time taken for OpenMP implementation with (N = 	240) and (numThreads = 3) = 0.250
+Time taken for OpenMP implementation with (N = 	240) and (numThreads = 4) = 0.250
+Time taken for OpenMP implementation with (N = 	240) and (numThreads = 5) = 0.250
+Time taken for OpenMP implementation with (N = 	240) and (numThreads = 6) = 0.250
+Time taken for OpenMP implementation with (N = 	240) and (numThreads = 8) = 0.250
+Time taken for OpenMP implementation with (N = 	240) and (numThreads = 10) = 0.250
+Time taken for OpenMP implementation with (N = 	240) and (numThreads = 12) = 4.000
+Time taken for OpenMP implementation with (N = 	240) and (numThreads = 15) = 0.250
+Time taken for OpenMP implementation with (N = 	240) and (numThreads = 16) = 0.250
+Time taken for OpenMP implementation with (N = 	480) and (numThreads = 1) = 1.500
+Time taken for OpenMP implementation with (N = 	480) and (numThreads = 2) = 1.000
+Time taken for OpenMP implementation with (N = 	480) and (numThreads = 3) = 1.250
+Time taken for OpenMP implementation with (N = 	480) and (numThreads = 4) = 1.000
+Time taken for OpenMP implementation with (N = 	480) and (numThreads = 5) = 1.000
+Time taken for OpenMP implementation with (N = 	480) and (numThreads = 6) = 1.250
+Time taken for OpenMP implementation with (N = 	480) and (numThreads = 8) = 1.000
+Time taken for OpenMP implementation with (N = 	480) and (numThreads = 10) = 1.500
+Time taken for OpenMP implementation with (N = 	480) and (numThreads = 12) = 4.750
+Time taken for OpenMP implementation with (N = 	480) and (numThreads = 15) = 1.250
+Time taken for OpenMP implementation with (N = 	480) and (numThreads = 16) = 3.000
+Time taken for OpenMP implementation with (N = 	720) and (numThreads = 1) = 5.000
+Time taken for OpenMP implementation with (N = 	720) and (numThreads = 2) = 4.000
+Time taken for OpenMP implementation with (N = 	720) and (numThreads = 3) = 3.250
+Time taken for OpenMP implementation with (N = 	720) and (numThreads = 4) = 3.000
+Time taken for OpenMP implementation with (N = 	720) and (numThreads = 5) = 2.750
+Time taken for OpenMP implementation with (N = 	720) and (numThreads = 6) = 2.750
+Time taken for OpenMP implementation with (N = 	720) and (numThreads = 8) = 2.750
+Time taken for OpenMP implementation with (N = 	720) and (numThreads = 10) = 2.500
+Time taken for OpenMP implementation with (N = 	720) and (numThreads = 12) = 2.750
+Time taken for OpenMP implementation with (N = 	720) and (numThreads = 15) = 3.250
+Time taken for OpenMP implementation with (N = 	720) and (numThreads = 16) = 3.250
+Time taken for OpenMP implementation with (N = 	960) and (numThreads = 1) = 11.750
+Time taken for OpenMP implementation with (N = 	960) and (numThreads = 2) = 8.500
+Time taken for OpenMP implementation with (N = 	960) and (numThreads = 3) = 6.500
+Time taken for OpenMP implementation with (N = 	960) and (numThreads = 4) = 5.750
+Time taken for OpenMP implementation with (N = 	960) and (numThreads = 5) = 5.500
+Time taken for OpenMP implementation with (N = 	960) and (numThreads = 6) = 5.000
+Time taken for OpenMP implementation with (N = 	960) and (numThreads = 8) = 5.000
+Time taken for OpenMP implementation with (N = 	960) and (numThreads = 10) = 4.750
+Time taken for OpenMP implementation with (N = 	960) and (numThreads = 12) = 4.750
+Time taken for OpenMP implementation with (N = 	960) and (numThreads = 15) = 5.500
+Time taken for OpenMP implementation with (N = 	960) and (numThreads = 16) = 10.000
+Time taken for OpenMP implementation with (N = 	1200) and (numThreads = 1) = 22.000
+Time taken for OpenMP implementation with (N = 	1200) and (numThreads = 2) = 15.250
+Time taken for OpenMP implementation with (N = 	1200) and (numThreads = 3) = 11.750
+Time taken for OpenMP implementation with (N = 	1200) and (numThreads = 4) = 10.250
+Time taken for OpenMP implementation with (N = 	1200) and (numThreads = 5) = 9.750
+Time taken for OpenMP implementation with (N = 	1200) and (numThreads = 6) = 9.000
+Time taken for OpenMP implementation with (N = 	1200) and (numThreads = 8) = 8.000
+Time taken for OpenMP implementation with (N = 	1200) and (numThreads = 10) = 8.000
+Time taken for OpenMP implementation with (N = 	1200) and (numThreads = 12) = 9.250
+Time taken for OpenMP implementation with (N = 	1200) and (numThreads = 15) = 11.500
+Time taken for OpenMP implementation with (N = 	1200) and (numThreads = 16) = 37.750
+Time taken for OpenMP implementation with (N = 	1500) and (numThreads = 1) = 47.000
+Time taken for OpenMP implementation with (N = 	1500) and (numThreads = 2) = 30.250
+Time taken for OpenMP implementation with (N = 	1500) and (numThreads = 3) = 23.000
+Time taken for OpenMP implementation with (N = 	1500) and (numThreads = 4) = 19.250
+Time taken for OpenMP implementation with (N = 	1500) and (numThreads = 5) = 17.000
+Time taken for OpenMP implementation with (N = 	1500) and (numThreads = 6) = 15.750
+Time taken for OpenMP implementation with (N = 	1500) and (numThreads = 8) = 14.500
+Time taken for OpenMP implementation with (N = 	1500) and (numThreads = 10) = 13.750
+Time taken for OpenMP implementation with (N = 	1500) and (numThreads = 12) = 13.500
+Time taken for OpenMP implementation with (N = 	1500) and (numThreads = 15) = 12.500
+Time taken for OpenMP implementation with (N = 	1500) and (numThreads = 16) = 14.750
+Time taken for OpenMP implementation with (N = 	1800) and (numThreads = 1) = 76.750
+Time taken for OpenMP implementation with (N = 	1800) and (numThreads = 2) = 48.000
+Time taken for OpenMP implementation with (N = 	1800) and (numThreads = 3) = 36.250
+Time taken for OpenMP implementation with (N = 	1800) and (numThreads = 4) = 30.750
+Time taken for OpenMP implementation with (N = 	1800) and (numThreads = 5) = 27.000
+Time taken for OpenMP implementation with (N = 	1800) and (numThreads = 6) = 24.750
+Time taken for OpenMP implementation with (N = 	1800) and (numThreads = 8) = 22.500
+Time taken for OpenMP implementation with (N = 	1800) and (numThreads = 10) = 21.750
+Time taken for OpenMP implementation with (N = 	1800) and (numThreads = 12) = 21.750
+Time taken for OpenMP implementation with (N = 	1800) and (numThreads = 15) = 21.250
+Time taken for OpenMP implementation with (N = 	1800) and (numThreads = 16) = 22.500
+Time taken for OpenMP implementation with (N = 	2100) and (numThreads = 1) = 126.250
+Time taken for OpenMP implementation with (N = 	2100) and (numThreads = 2) = 70.000
+Time taken for OpenMP implementation with (N = 	2100) and (numThreads = 3) = 58.000
+Time taken for OpenMP implementation with (N = 	2100) and (numThreads = 4) = 47.000
+Time taken for OpenMP implementation with (N = 	2100) and (numThreads = 5) = 43.000
+Time taken for OpenMP implementation with (N = 	2100) and (numThreads = 6) = 38.500
+Time taken for OpenMP implementation with (N = 	2100) and (numThreads = 8) = 34.500
+Time taken for OpenMP implementation with (N = 	2100) and (numThreads = 10) = 31.500
+Time taken for OpenMP implementation with (N = 	2100) and (numThreads = 12) = 31.000
+Time taken for OpenMP implementation with (N = 	2100) and (numThreads = 15) = 27.500
+Time taken for OpenMP implementation with (N = 	2100) and (numThreads = 16) = 27.500
+Time taken for OpenMP implementation with (N = 	2400) and (numThreads = 1) = 179.500
+Time taken for OpenMP implementation with (N = 	2400) and (numThreads = 2) = 96.250
+Time taken for OpenMP implementation with (N = 	2400) and (numThreads = 3) = 66.500
+Time taken for OpenMP implementation with (N = 	2400) and (numThreads = 4) = 52.250
+Time taken for OpenMP implementation with (N = 	2400) and (numThreads = 5) = 44.000
+Time taken for OpenMP implementation with (N = 	2400) and (numThreads = 6) = 49.250
+Time taken for OpenMP implementation with (N = 	2400) and (numThreads = 8) = 45.500
+Time taken for OpenMP implementation with (N = 	2400) and (numThreads = 10) = 42.250
+Time taken for OpenMP implementation with (N = 	2400) and (numThreads = 12) = 41.000
+Time taken for OpenMP implementation with (N = 	2400) and (numThreads = 15) = 39.000
+Time taken for OpenMP implementation with (N = 	2400) and (numThreads = 16) = 48.000
+Time taken for OpenMP implementation with (N = 	3600) and (numThreads = 1) = 645.750
+Time taken for OpenMP implementation with (N = 	3600) and (numThreads = 2) = 367.250
+Time taken for OpenMP implementation with (N = 	3600) and (numThreads = 3) = 264.250
+Time taken for OpenMP implementation with (N = 	3600) and (numThreads = 4) = 213.500
+Time taken for OpenMP implementation with (N = 	3600) and (numThreads = 5) = 182.000
+Time taken for OpenMP implementation with (N = 	3600) and (numThreads = 6) = 164.000
+Time taken for OpenMP implementation with (N = 	3600) and (numThreads = 8) = 139.500
+Time taken for OpenMP implementation with (N = 	3600) and (numThreads = 10) = 121.250
+Time taken for OpenMP implementation with (N = 	3600) and (numThreads = 12) = 114.000
+Time taken for OpenMP implementation with (N = 	3600) and (numThreads = 15) = 106.750
+Time taken for OpenMP implementation with (N = 	3600) and (numThreads = 16) = 103.000
+Time taken for OpenMP implementation with (N = 	4800) and (numThreads = 1) = 2023.500
+Time taken for OpenMP implementation with (N = 	4800) and (numThreads = 2) = 1094.000
+Time taken for OpenMP implementation with (N = 	4800) and (numThreads = 3) = 761.000
+Time taken for OpenMP implementation with (N = 	4800) and (numThreads = 4) = 594.750
+Time taken for OpenMP implementation with (N = 	4800) and (numThreads = 5) = 494.500
+Time taken for OpenMP implementation with (N = 	4800) and (numThreads = 6) = 433.250
+Time taken for OpenMP implementation with (N = 	4800) and (numThreads = 8) = 354.250
+Time taken for OpenMP implementation with (N = 	4800) and (numThreads = 10) = 305.500
+Time taken for OpenMP implementation with (N = 	4800) and (numThreads = 12) = 273.250
+Time taken for OpenMP implementation with (N = 	4800) and (numThreads = 15) = 254.750
+Time taken for OpenMP implementation with (N = 	4800) and (numThreads = 16) = 242.500

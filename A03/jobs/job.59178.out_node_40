@@ -1,0 +1,31 @@
+==========================================
+SLURM_CLUSTER_NAME = iitk-cluster
+SLURM_JOB_ACCOUNT = iitb-t
+SLURM_JOB_ID = 59178
+SLURM_JOB_NAME = 170070050A03
+SLURM_JOB_NODELIST = cn042
+SLURM_JOB_USER = 170070050
+SLURM_JOB_UID = 15276
+SLURM_JOB_PARTITION = standard
+SLURM_TASK_PID = 40225
+SLURM_SUBMIT_DIR = /home/170070050/ME766/Assignments/A03
+SLURM_CPUS_ON_NODE = 1
+SLURM_NTASKS = 
+SLURM_TASK_PID = 40225
+==========================================
+Q_Host.c:1:18: fatal error: stdio.h: No such file or directory
+ #include<stdio.h>
+                  ^
+compilation terminated.
+Time taken for HOST implementation with (N = 	120) = 0.016
+Time taken for HOST implementation with (N = 	240) = 0.080
+Time taken for HOST implementation with (N = 	480) = 0.464
+Time taken for HOST implementation with (N = 	720) = 1.537
+Time taken for HOST implementation with (N = 	960) = 3.999
+Time taken for HOST implementation with (N = 	1200) = 8.019
+Time taken for HOST implementation with (N = 	1500) = 22.363
+Time taken for HOST implementation with (N = 	1800) = 34.267
+Time taken for HOST implementation with (N = 	2100) = 60.773
+Time taken for HOST implementation with (N = 	2400) = 65.618
+Time taken for HOST implementation with (N = 	3600) = 225.955
+Time taken for HOST implementation with (N = 	4800) = 824.568

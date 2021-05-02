@@ -1,0 +1,17 @@
+==========================================
+SLURM_CLUSTER_NAME = iitk-cluster
+SLURM_JOB_ACCOUNT = iitb-t
+SLURM_JOB_ID = 51529
+SLURM_JOB_NAME = 170070050A02V01
+SLURM_JOB_NODELIST = cn067
+SLURM_JOB_USER = 170070050
+SLURM_JOB_UID = 15276
+SLURM_JOB_PARTITION = standard
+SLURM_TASK_PID = 10007
+SLURM_SUBMIT_DIR = /home/170070050/ME766/Assignments/A02
+SLURM_CPUS_ON_NODE = 2
+SLURM_NTASKS = 2
+SLURM_TASK_PID = 10007
+==========================================
+Time taken for OpenMP implementation with (N = 	10000) and (numThreads = 2) = 7039.750
+Time taken for OpenMP implementation with (N = 	10000) and (numThreads = 1) = 13039.750

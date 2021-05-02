@@ -1,0 +1,151 @@
+==========================================
+SLURM_CLUSTER_NAME = iitk-cluster
+SLURM_JOB_ACCOUNT = iitb-t
+SLURM_JOB_ID = 53055
+SLURM_JOB_NAME = 170070050A02Q02
+SLURM_JOB_NODELIST = cn014
+SLURM_JOB_USER = 170070050
+SLURM_JOB_UID = 15276
+SLURM_JOB_PARTITION = standard
+SLURM_TASK_PID = 35291
+SLURM_SUBMIT_DIR = /home/170070050/ME766/Assignments/A02/Q2
+SLURM_CPUS_ON_NODE = 17
+SLURM_NTASKS = 17
+SLURM_TASK_PID = 35291
+==========================================
+Time taken for MPI implementation with (N = 120)	 and (numProcs = 17) = 0.014
+Time taken for MPI implementation with (N = 120)	 and (numProcs = 16) = 0.015
+Time taken for MPI implementation with (N = 120)	 and (numProcs = 13) = 0.014
+Time taken for MPI implementation with (N = 120)	 and (numProcs = 11) = 0.014
+Time taken for MPI implementation with (N = 120)	 and (numProcs = 9) = 0.012
+Time taken for MPI implementation with (N = 120)	 and (numProcs = 7) = 0.014
+Time taken for MPI implementation with (N = 120)	 and (numProcs = 6) = 0.013
+Time taken for MPI implementation with (N = 120)	 and (numProcs = 5) = 0.014
+Time taken for MPI implementation with (N = 120)	 and (numProcs = 4) = 0.015
+Time taken for MPI implementation with (N = 120)	 and (numProcs = 3) = 0.018
+Time taken for MPI implementation with (N = 120)	 and (numProcs = 2) = 0.032
+Time taken for MPI implementation with (N = 240)	 and (numProcs = 17) = 0.057
+Time taken for MPI implementation with (N = 240)	 and (numProcs = 16) = 0.064
+Time taken for MPI implementation with (N = 240)	 and (numProcs = 13) = 0.066
+Time taken for MPI implementation with (N = 240)	 and (numProcs = 11) = 0.059
+Time taken for MPI implementation with (N = 240)	 and (numProcs = 9) = 0.070
+Time taken for MPI implementation with (N = 240)	 and (numProcs = 7) = 0.075
+Time taken for MPI implementation with (N = 240)	 and (numProcs = 6) = 0.075
+Time taken for MPI implementation with (N = 240)	 and (numProcs = 5) = 0.081
+Time taken for MPI implementation with (N = 240)	 and (numProcs = 4) = 0.085
+Time taken for MPI implementation with (N = 240)	 and (numProcs = 3) = 0.100
+Time taken for MPI implementation with (N = 240)	 and (numProcs = 2) = 0.177
+Time taken for MPI implementation with (N = 480)	 and (numProcs = 17) = 0.315
+Time taken for MPI implementation with (N = 480)	 and (numProcs = 16) = 0.325
+Time taken for MPI implementation with (N = 480)	 and (numProcs = 13) = 0.327
+Time taken for MPI implementation with (N = 480)	 and (numProcs = 11) = 0.329
+Time taken for MPI implementation with (N = 480)	 and (numProcs = 9) = 0.340
+Time taken for MPI implementation with (N = 480)	 and (numProcs = 7) = 0.363
+Time taken for MPI implementation with (N = 480)	 and (numProcs = 6) = 0.382
+Time taken for MPI implementation with (N = 480)	 and (numProcs = 5) = 0.412
+Time taken for MPI implementation with (N = 480)	 and (numProcs = 4) = 0.463
+Time taken for MPI implementation with (N = 480)	 and (numProcs = 3) = 0.641
+Time taken for MPI implementation with (N = 480)	 and (numProcs = 2) = 1.229
+Time taken for MPI implementation with (N = 720)	 and (numProcs = 17) = 0.885
+Time taken for MPI implementation with (N = 720)	 and (numProcs = 16) = 0.890
+Time taken for MPI implementation with (N = 720)	 and (numProcs = 13) = 0.917
+Time taken for MPI implementation with (N = 720)	 and (numProcs = 11) = 0.948
+Time taken for MPI implementation with (N = 720)	 and (numProcs = 9) = 0.989
+Time taken for MPI implementation with (N = 720)	 and (numProcs = 7) = 1.081
+Time taken for MPI implementation with (N = 720)	 and (numProcs = 6) = 1.155
+Time taken for MPI implementation with (N = 720)	 and (numProcs = 5) = 1.267
+Time taken for MPI implementation with (N = 720)	 and (numProcs = 4) = 1.447
+Time taken for MPI implementation with (N = 720)	 and (numProcs = 3) = 2.047
+Time taken for MPI implementation with (N = 720)	 and (numProcs = 2) = 4.071
+Time taken for MPI implementation with (N = 960)	 and (numProcs = 17) = 1.988
+Time taken for MPI implementation with (N = 960)	 and (numProcs = 16) = 2.008
+Time taken for MPI implementation with (N = 960)	 and (numProcs = 13) = 2.083
+Time taken for MPI implementation with (N = 960)	 and (numProcs = 11) = 2.149
+Time taken for MPI implementation with (N = 960)	 and (numProcs = 9) = 2.259
+Time taken for MPI implementation with (N = 960)	 and (numProcs = 7) = 2.470
+Time taken for MPI implementation with (N = 960)	 and (numProcs = 6) = 2.648
+Time taken for MPI implementation with (N = 960)	 and (numProcs = 5) = 2.918
+Time taken for MPI implementation with (N = 960)	 and (numProcs = 4) = 3.336
+Time taken for MPI implementation with (N = 960)	 and (numProcs = 3) = 4.697
+Time taken for MPI implementation with (N = 960)	 and (numProcs = 2) = 9.467
+Time taken for MPI implementation with (N = 1200)	 and (numProcs = 17) = 3.791
+Time taken for MPI implementation with (N = 1200)	 and (numProcs = 16) = 3.820
+Time taken for MPI implementation with (N = 1200)	 and (numProcs = 13) = 4.012
+Time taken for MPI implementation with (N = 1200)	 and (numProcs = 11) = 4.200
+Time taken for MPI implementation with (N = 1200)	 and (numProcs = 9) = 4.422
+Time taken for MPI implementation with (N = 1200)	 and (numProcs = 7) = 4.769
+Time taken for MPI implementation with (N = 1200)	 and (numProcs = 6) = 5.087
+Time taken for MPI implementation with (N = 1200)	 and (numProcs = 5) = 5.499
+Time taken for MPI implementation with (N = 1200)	 and (numProcs = 4) = 6.331
+Time taken for MPI implementation with (N = 1200)	 and (numProcs = 3) = 9.068
+Time taken for MPI implementation with (N = 1200)	 and (numProcs = 2) = 17.809
+Time taken for MPI implementation with (N = 1500)	 and (numProcs = 17) = 7.942
+Time taken for MPI implementation with (N = 1500)	 and (numProcs = 16) = 8.130
+Time taken for MPI implementation with (N = 1500)	 and (numProcs = 13) = 8.693
+Time taken for MPI implementation with (N = 1500)	 and (numProcs = 11) = 9.197
+Time taken for MPI implementation with (N = 1500)	 and (numProcs = 9) = 9.746
+Time taken for MPI implementation with (N = 1500)	 and (numProcs = 7) = 10.689
+Time taken for MPI implementation with (N = 1500)	 and (numProcs = 6) = 11.216
+Time taken for MPI implementation with (N = 1500)	 and (numProcs = 5) = 11.557
+Time taken for MPI implementation with (N = 1500)	 and (numProcs = 4) = 13.018
+Time taken for MPI implementation with (N = 1500)	 and (numProcs = 3) = 18.563
+Time taken for MPI implementation with (N = 1500)	 and (numProcs = 2) = 36.980
+Time taken for MPI implementation with (N = 1800)	 and (numProcs = 17) = 13.058
+Time taken for MPI implementation with (N = 1800)	 and (numProcs = 16) = 13.284
+Time taken for MPI implementation with (N = 1800)	 and (numProcs = 13) = 14.138
+Time taken for MPI implementation with (N = 1800)	 and (numProcs = 11) = 14.889
+Time taken for MPI implementation with (N = 1800)	 and (numProcs = 9) = 15.955
+Time taken for MPI implementation with (N = 1800)	 and (numProcs = 7) = 17.788
+Time taken for MPI implementation with (N = 1800)	 and (numProcs = 6) = 18.847
+Time taken for MPI implementation with (N = 1800)	 and (numProcs = 5) = 20.807
+Time taken for MPI implementation with (N = 1800)	 and (numProcs = 4) = 22.166
+Time taken for MPI implementation with (N = 1800)	 and (numProcs = 3) = 30.996
+Time taken for MPI implementation with (N = 1800)	 and (numProcs = 2) = 61.365
+Time taken for MPI implementation with (N = 2100)	 and (numProcs = 17) = 22.021
+Time taken for MPI implementation with (N = 2100)	 and (numProcs = 16) = 22.445
+Time taken for MPI implementation with (N = 2100)	 and (numProcs = 13) = 24.295
+Time taken for MPI implementation with (N = 2100)	 and (numProcs = 11) = 25.815
+Time taken for MPI implementation with (N = 2100)	 and (numProcs = 9) = 28.046
+Time taken for MPI implementation with (N = 2100)	 and (numProcs = 7) = 31.763
+Time taken for MPI implementation with (N = 2100)	 and (numProcs = 6) = 34.585
+Time taken for MPI implementation with (N = 2100)	 and (numProcs = 5) = 37.445
+Time taken for MPI implementation with (N = 2100)	 and (numProcs = 4) = 42.122
+Time taken for MPI implementation with (N = 2100)	 and (numProcs = 3) = 52.088
+Time taken for MPI implementation with (N = 2100)	 and (numProcs = 2) = 101.668
+Time taken for MPI implementation with (N = 2400)	 and (numProcs = 17) = 30.136
+Time taken for MPI implementation with (N = 2400)	 and (numProcs = 16) = 30.613
+Time taken for MPI implementation with (N = 2400)	 and (numProcs = 13) = 32.193
+Time taken for MPI implementation with (N = 2400)	 and (numProcs = 11) = 33.656
+Time taken for MPI implementation with (N = 2400)	 and (numProcs = 9) = 35.746
+Time taken for MPI implementation with (N = 2400)	 and (numProcs = 7) = 39.491
+Time taken for MPI implementation with (N = 2400)	 and (numProcs = 6) = 42.407
+Time taken for MPI implementation with (N = 2400)	 and (numProcs = 5) = 46.842
+Time taken for MPI implementation with (N = 2400)	 and (numProcs = 4) = 53.625
+Time taken for MPI implementation with (N = 2400)	 and (numProcs = 3) = 75.325
+Time taken for MPI implementation with (N = 2400)	 and (numProcs = 2) = 144.156
+Time taken for MPI implementation with (N = 3600)	 and (numProcs = 17) = 102.886
+Time taken for MPI implementation with (N = 3600)	 and (numProcs = 16) = 104.185
+Time taken for MPI implementation with (N = 3600)	 and (numProcs = 13) = 109.483
+Time taken for MPI implementation with (N = 3600)	 and (numProcs = 11) = 114.444
+Time taken for MPI implementation with (N = 3600)	 and (numProcs = 9) = 121.677
+Time taken for MPI implementation with (N = 3600)	 and (numProcs = 7) = 134.400
+Time taken for MPI implementation with (N = 3600)	 and (numProcs = 6) = 144.481
+Time taken for MPI implementation with (N = 3600)	 and (numProcs = 5) = 159.513
+Time taken for MPI implementation with (N = 3600)	 and (numProcs = 4) = 185.256
+Time taken for MPI implementation with (N = 3600)	 and (numProcs = 3) = 264.492
+Time taken for MPI implementation with (N = 3600)	 and (numProcs = 2) = 514.783
+Time taken for MPI implementation with (N = 4800)	 and (numProcs = 17) = 270.529
+Time taken for MPI implementation with (N = 4800)	 and (numProcs = 16) = 275.003
+Time taken for MPI implementation with (N = 4800)	 and (numProcs = 13) = 294.914
+Time taken for MPI implementation with (N = 4800)	 and (numProcs = 11) = 313.608
+Time taken for MPI implementation with (N = 4800)	 and (numProcs = 9) = 341.527
+Time taken for MPI implementation with (N = 4800)	 and (numProcs = 7) = 387.045
+Time taken for MPI implementation with (N = 4800)	 and (numProcs = 6) = 428.212
+Time taken for MPI implementation with (N = 4800)	 and (numProcs = 5) = 480.518
+Time taken for MPI implementation with (N = 4800)	 and (numProcs = 4) = 574.693
+Time taken for MPI implementation with (N = 4800)	 and (numProcs = 3) = 830.010
+Time taken for MPI implementation with (N = 4800)	 and (numProcs = 2) = 1648.998
+Time taken for MPI implementation with (N = 9600)	 and (numProcs = 17) = 2269.529
+Time taken for MPI implementation with (N = 9600)	 and (numProcs = 16) = 2309.545
+Time taken for MPI implementation with (N = 9600)	 and (numProcs = 13) = 2493.785
+Time taken for MPI implementation with (N = 9600)	 and (numProcs = 11) = 2671.629

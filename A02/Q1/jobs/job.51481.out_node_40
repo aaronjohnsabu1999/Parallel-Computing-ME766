@@ -1,0 +1,41 @@
+==========================================
+SLURM_CLUSTER_NAME = iitk-cluster
+SLURM_JOB_ACCOUNT = iitb-t
+SLURM_JOB_ID = 51481
+SLURM_JOB_NAME = 170070050A02V01
+SLURM_JOB_NODELIST = cn041
+SLURM_JOB_USER = 170070050
+SLURM_JOB_UID = 15276
+SLURM_JOB_PARTITION = standard
+SLURM_TASK_PID = 15051
+SLURM_SUBMIT_DIR = /home/170070050/ME766/Assignments/A02
+SLURM_CPUS_ON_NODE = 16
+SLURM_NTASKS = 16
+SLURM_TASK_PID = 15051
+==========================================
+Time taken for OpenMP implementation with (N = 	100) and (numThreads = 12) = 0.000
+Time taken for OpenMP implementation with (N = 	100) and (numThreads = 13) = 0.000
+Time taken for OpenMP implementation with (N = 	100) and (numThreads = 14) = 0.000
+Time taken for OpenMP implementation with (N = 	100) and (numThreads = 15) = 0.250
+Time taken for OpenMP implementation with (N = 	100) and (numThreads = 16) = 0.000
+Time taken for OpenMP implementation with (N = 	3200) and (numThreads = 12) = 53.250
+Time taken for OpenMP implementation with (N = 	3200) and (numThreads = 13) = 49.750
+Time taken for OpenMP implementation with (N = 	3200) and (numThreads = 14) = 46.000
+Time taken for OpenMP implementation with (N = 	3200) and (numThreads = 15) = 45.000
+Time taken for OpenMP implementation with (N = 	3200) and (numThreads = 16) = 40.750
+Time taken for OpenMP implementation with (N = 	5000) and (numThreads = 1) = 1571.500
+Time taken for OpenMP implementation with (N = 	5000) and (numThreads = 2) = 872.750
+Time taken for OpenMP implementation with (N = 	5000) and (numThreads = 3) = 611.750
+Time taken for OpenMP implementation with (N = 	5000) and (numThreads = 4) = 442.250
+Time taken for OpenMP implementation with (N = 	5000) and (numThreads = 5) = 356.250
+Time taken for OpenMP implementation with (N = 	5000) and (numThreads = 6) = 298.750
+Time taken for OpenMP implementation with (N = 	5000) and (numThreads = 7) = 256.500
+Time taken for OpenMP implementation with (N = 	5000) and (numThreads = 8) = 222.750
+Time taken for OpenMP implementation with (N = 	5000) and (numThreads = 9) = 201.250
+Time taken for OpenMP implementation with (N = 	5000) and (numThreads = 10) = 178.750
+Time taken for OpenMP implementation with (N = 	5000) and (numThreads = 11) = 164.750
+Time taken for OpenMP implementation with (N = 	5000) and (numThreads = 12) = 151.000
+Time taken for OpenMP implementation with (N = 	5000) and (numThreads = 13) = 143.250
+Time taken for OpenMP implementation with (N = 	5000) and (numThreads = 14) = 130.000
+Time taken for OpenMP implementation with (N = 	5000) and (numThreads = 15) = 120.000
+Time taken for OpenMP implementation with (N = 	5000) and (numThreads = 16) = 117.250
